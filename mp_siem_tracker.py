@@ -1,7 +1,7 @@
 import os
 import json
 
-kbase_path = "/home/serega/Development/mp_siem_tracker/correlations"
+kbase_path = "/path/to/your/rules"
 rulenames = []
 
 def get_all_rulenames():
